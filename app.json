@@ -4,7 +4,6 @@
       "page/me/me",
       "page/cart/cart",
       "page/show/show"
-
   ],
   "window": {
     "navigationBarTextStyle": "white",
